@@ -26,7 +26,7 @@ def get_rates(base):
 st.title("💱 Currency Converter")
 st.caption("Live exchange rates · Refreshed every 5 minutes")
 
-st.warning("⚠️ Due to international sanctions, Iranian Toman (TMN) live rates are unavailable. Please enter the rate manually. You can check the current rate at bonbast.com.")
+st.warning("⚠️ Due to international sanctions and laws and it is not permitted or possible to announce live prices for the Iranian currency (toman). Please enter the rate manually. You can check the current rate at bonbast.com.")
 
 st.divider()
 
